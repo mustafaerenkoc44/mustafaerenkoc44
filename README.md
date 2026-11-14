@@ -1,23 +1,24 @@
-### Hi, I'm Mustafa Eren Koç 👋
+### Mustafa Eren Koç
 
-Software engineer from Istanbul (ITU Computer Engineering, 2026). I build and ship complete products: native iOS and Android apps, Python/FastAPI backends and data pipelines that work over millions of records.
+Software engineer from Istanbul (ITU Computer Engineering, 2026). I build and ship complete products: native iOS and Android apps, Python/FastAPI backends and the data pipelines behind them.
 
 #### What I'm building
 
-| | Product | What it is | Stack |
-|---|---|---|---|
-| 🧴 | **[Klaris](https://klaris.com.tr)** | Cosmetic-ingredient analysis app for the Turkish market, live on the App Store and Google Play. Scan a barcode and get plain-Turkish ingredient explanations and a product score with open reasoning. 700,000+ products, 16,000+ automated tests. | Swift · SwiftUI · Kotlin · Jetpack Compose · FastAPI · PostgreSQL · Redis · Docker |
-| 🎓 | **[Hocam Kim?](https://hocamkim.com)** | Free, transparent directory and field-normalized ranking of 184,668 academics in Türkiye, with about 4.9 million deduplicated publications and an open, versioned scoring method. | Python · FastAPI · MongoDB · Meilisearch · OpenAlex |
-| 🧬 | **[TRBio](https://trbio.info)** | ITU graduation project: a curated knowledge base and co-authorship network of Türkiye's bioinformatics community, with a collaborator recommender. Two first-author manuscripts in preparation. | Python · FastAPI · MongoDB · D3.js · Ollama |
+| Product | What it is | Stack |
+|---|---|---|
+| **[Klaris](https://klaris.com.tr)** | Cosmetic-ingredient analysis app for the Turkish market, live on the App Store and Google Play. Scan a barcode to get plain-Turkish ingredient explanations and a product score with open reasoning. 700,000+ products, 16,000+ automated tests. | Swift · SwiftUI · Kotlin · Jetpack Compose · FastAPI · PostgreSQL · Redis · Docker |
+| **[Hocam Kim?](https://hocamkim.com)** | Free, transparent directory and field-normalized ranking of 184,668 academics in Türkiye, with about 4.9 million deduplicated publications and an open, versioned scoring method. | Python · FastAPI · MongoDB · Meilisearch · OpenAlex |
+| **[TRBio](https://trbio.info)** | ITU graduation project, built with Naya Şahin and supervised by Prof. Dr. Ali Çakmak: a curated knowledge base and co-authorship network of Türkiye's bioinformatics community, with a collaborator recommender. Two first-author manuscripts in preparation. | Python · FastAPI · MongoDB · D3.js · Ollama |
 
-*Product code lives in private repositories.*
+Klaris and Hocam Kim? code is private; the TRBio research code is public (below).
 
 #### Selected public projects
 
-- **[BLG-475E-Term-Project](https://github.com/mustafaerenkoc44/BLG-475E-Term-Project)**: evaluation pipeline for LLM-generated Java code and unit tests on HumanEval-X (llama.cpp, JUnit, JaCoCo, PITest, GitHub Actions)
-- **[blg-483e-hw3-local-wikipedia-rag](https://github.com/mustafaerenkoc44/blg-483e-hw3-local-wikipedia-rag)**: fully local RAG assistant (Ollama, ChromaDB, SQLite, Streamlit)
-- **[blg-483e-hw1](https://github.com/mustafaerenkoc44/blg-483e-hw1)**: concurrent web crawler with live search, built on the Python standard library
-- **[QueryCurious](https://github.com/mustafaerenkoc/QueryCurious)**: trade-data ETL and Flask/MySQL analytics app (team project)
+- **[Mapping Bioinformatics in Türkiye](https://github.com/mustafaerenkoc44/mapping-bioinformatics-turkiye)**: analysis code and manuscripts in preparation for the TRBio papers; de-identified co-authorship data on [Zenodo](https://doi.org/10.5281/zenodo.24208634)
+- **[LLM code and test evaluation](https://github.com/mustafaerenkoc44/BLG-475E-Term-Project)**: LLM-generated Java code and unit tests on HumanEval-X, with JUnit, JaCoCo coverage, PITest mutation testing and GitHub Actions (BLG 475E)
+- **[Local Wikipedia RAG assistant](https://github.com/mustafaerenkoc44/blg-483e-hw3-local-wikipedia-rag)**: retrieval-augmented assistant that runs locally with Ollama, ChromaDB, SQLite and Streamlit (BLG 483E)
+- **[Concurrent web crawler and search engine](https://github.com/mustafaerenkoc44/blg-483e-hw1)**: live search while indexing, built on the Python standard library and SQLite (BLG 483E)
+- **[Trade-data analytics](https://github.com/mustafaerenkoc/QueryCurious)**: streaming ETL into a nine-table MySQL schema and a Flask analytics app (BLG 317E, team of five)
 
 #### Toolbox
 
