@@ -6,9 +6,9 @@ Software Engineer from Istanbul (ITU Computer Engineering, 2026). I build and sh
 
 | Product | What It Is | Stack |
 |---|---|---|
-| **[Klaris](https://klaris.com.tr)** | Cosmetic-ingredient analysis app for the Turkish market, live on the App Store and Google Play. Scan a barcode to get plain-Turkish ingredient explanations and a product score with open reasoning. 700,000+ products, 16,000+ automated tests. | Swift · SwiftUI · Kotlin · Jetpack Compose · FastAPI · PostgreSQL · Redis · Docker |
+| **[Klaris](https://klaris.com.tr)** | Cosmetic-ingredient analysis app for the Turkish market, live on the App Store and Google Play. Scan a barcode to get plain-Turkish ingredient explanations and a product score with open reasoning. 1.5 million+ products, 16,000+ automated tests. | Swift · SwiftUI · Kotlin · Jetpack Compose · FastAPI · PostgreSQL · Redis · Docker |
 | **[Hocam Kim?](https://hocamkim.com)** | Free, transparent directory and field-normalized ranking of 184,668 academics in Türkiye, with about 4.9 million deduplicated publications and an open, versioned scoring method. | Python · FastAPI · MongoDB · Meilisearch · OpenAlex |
-| **[TRBio](https://trbio.info)** | ITU graduation project, built with Naya Şahin and supervised by Prof. Dr. Ali Çakmak: a curated knowledge base and co-authorship network of Türkiye's bioinformatics community, with a collaborator recommender. Two first-author manuscripts submitted to *Briefings in Bioinformatics* and *Database* (November 2026). | Python · FastAPI · MongoDB · D3.js · Ollama |
+| **[TRBio](https://trbio.info)** | ITU graduation project, built with Naya Şahin and supervised by Assoc. Prof. Ali Çakmak: a curated knowledge base and co-authorship network of Türkiye's bioinformatics community, with a collaborator recommender. Two first-author manuscripts submitted to *Briefings in Bioinformatics* and *Database* (November 2026). | Python · FastAPI · MongoDB · D3.js · Ollama |
 
 Klaris and Hocam Kim? code is private; the TRBio research code is public (below).
 
